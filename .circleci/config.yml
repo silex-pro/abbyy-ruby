@@ -13,7 +13,7 @@ jobs:
           command: bundle -v
       - restore_cache:
           keys:
-            - bundle-{{ checksum "Gemfile.lock" }}
+            - bundle-{{ checksum "Gemfile" }}
             - bundle-
       - run: # Install Ruby dependencies
           name: Bundle Install
