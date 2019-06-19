@@ -3,8 +3,8 @@
 Simple Ruby wrapper for Abbyy Cloud OCR SDK
 The initial code was borrowed from https://github.com/silex-pro/abbyy
 
-[![Build Status](https://img.shields.io/travis/silex-pro/abbyy-ruby.svg)](https://travis-ci.org/silex-pro/abbyy-ruby)
-[![Gem](https://img.shields.io/gem/v/abbyy-ruby.svg)](https://rubygems.org/gems/abbyy-ruby)
+[![CircleCI](https://circleci.com/gh/silex-pro/abbyy-ruby.svg?style=svg)](https://circleci.com/gh/silex-pro/abbyy-ruby)
+[![Gem Version](https://badge.fury.io/rb/abbyy-ruby.svg)](https://badge.fury.io/rb/abbyy-ruby)
 
 ## Installation
 
